@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'COMBIFER'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0434845A963B45268305A7551F9F5E16 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C02A96517BAD43129CCE6F8075E99BEF }}
           package: .
